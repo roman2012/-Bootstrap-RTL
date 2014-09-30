@@ -51,6 +51,23 @@
   src: url("font/nassim-bold.eot");
   src: url("font/nassim-bold.eot?#iefix") format("embedded-opentype"), url("font/nassim-bold.woff") format("woff"), url("font/nassim-bold.ttf") format("truetype"), url("font/nassim-bold.svg#Nassim") format("svg");
 }
+
+/**************Kufi Font***************************/
+@font-face {
+  font-family: 'Droid Arabic Kufi';
+  src: url('font/Kufi/DroidKufi-Regular.eot');
+  src: url('font/Kufi/DroidKufi-Regular.eot?#iefix') format('embedded-opentype'), url('font/Kufi/DroidKufi-Regular.woff') format('woff'), url('font/Kufi/DroidKufi-Regular.woff2') format('woff2'), url('font/Kufi/DroidKufi-Regular.ttf') format('truetype'), url('font/Kufi/DroidKufi-Regular.svg#Droid Arabic Kufi') format('svg');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Droid Arabic Kufi';
+  src: url('font/Kufi/DroidKufi-Bold.eot');
+  src: url('font/Kufi/DroidKufi-Bold.eot?#iefix') format('embedded-opentype'), url('font/Kufi/DroidKufi-Bold.woff') format('woff'), url('font/Kufi/DroidKufi-Bold.woff2') format('woff2'), url('font/Kufi/DroidKufi-Bold.ttf') format('truetype'), url('font/Kufi/DroidKufi-Bold.svg#Droid Arabic Kufi') format('svg');
+  font-weight: 700;
+  font-style: normal;
+}
+/**************Kufi Font***************************/
 /* RTL */
 /* RTL */
 /* RTL */
